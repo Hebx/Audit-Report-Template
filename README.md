@@ -11,3 +11,5 @@
 ```
 pandoc report.md -o report.pdf --from markdown --template=eisvogel --listings
 ```
+PS: report-example.md is the standard template, not to be modified.
+    report.md is to be modified for every audit and generated to pdf
